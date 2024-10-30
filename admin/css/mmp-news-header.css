@@ -1,0 +1,24 @@
+.mmp-news__linkContainer {
+    text-align: right;
+}
+
+.mmp-news__link--common {
+    margin-top: 7px;
+    font-size: 0.8rem !important;
+    color: var(--mmp-blue) !important;
+    font-weight: bold;
+    text-decoration: none;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.mmp-news__link--common:hover {
+    text-decoration: underline;
+}
+
+.mmp-news__link--common:hover,
+.mmp-news__link--common:focus {
+    outline: none !important;
+    box-shadow: none !important;
+}

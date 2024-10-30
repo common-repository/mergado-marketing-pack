@@ -1,0 +1,12 @@
+.mergado__topbar_count {
+    display: inline-block;
+    position: relative !important;
+    margin-left: 5px !important;
+    color: #fff;
+    background: #25b9d7;
+    line-height: 1 !important;
+    padding: 0.25rem 0.42rem !important;
+    border-radius: 1rem !important;
+    font-weight: bold !important;
+    font-size: 10px !important;
+}
